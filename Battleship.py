@@ -1,3 +1,5 @@
+# Image source - pexels.com
+
 import pygame, random, sys
 from pygame.locals import *
 
